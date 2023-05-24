@@ -201,7 +201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Goldedal
+      name: GoldenMedal
       rect:
         serializedVersion: 2
         x: 1745
@@ -492,7 +492,7 @@ TextureImporter:
       Fish_3: 1980495916
       GameOver: 551056800
       GetReady: 2120184284
-      Goldedal: 1293650719
+      GoldenMedal: 1293650719
       Ground: 52925511
       MetalMedal: 1441347899
       New: 278263441
